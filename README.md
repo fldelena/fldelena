@@ -27,10 +27,10 @@ I can program in C, C++, Java at the junior level:
 ## C/C++ Projects
 | Название проекта | Период разработки |  Описание |
 |:------------:|:------------------:|:-----------:|
-| ft_containers | 02/01/2022 - 06/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/fldelena/ft_containers). |
 | philosophers | 02/08/2021 - 20/12/2021 | Проект по изучению многопоточности, основанный на [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/fldelena/Philosophers). |
 | minishell | 20/06/2021 - 27/07/2021 | Совместный проект по разработке собственной оболочки(bash) для системы MAC. Link to [GitHub Repo](https://github.com/fldelena/minishell_42_fldelena). |
 | cub3D | 01/04/2021 - 29/04/2021 | Образовательный проект учебной программы Школы программирования 21 (42 ecola) для рендеринга кадра с использованием библиотеки minilibX на C. Link to [GitHub Repo](https://github.com/fldelena/cub3d). |
+| ft_containers | 02/01/2022 - 06/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/fldelena/ft_containers). |
 | ft_printf | 08/01/2021 - 25/01/2021 | Собственная реализация стандартной функции `printf`. Link to [GitHub Repo](https://github.com/fldelena/ft_printf). |
 | GNL | 25/12/2020 - 18/01/2021 | Небольшая программа для считывания информации из файла. Link to [GitHub Repo](https://github.com/fldelena/gnl). |
 | libft | 04/11/2020 - 24/11/2020 | Реализация библиотеки стандартных функций на языке C. Link to [GitHub Repo](https://github.com/fldelena/libft). |
