@@ -23,6 +23,8 @@ I can program in C, C++, Java at the junior level:
 ## Java PET-Projects
 | Название проекта | Период разработки |  Описание |
 |:------------:|:------------------:|:-----------:|
+| BuySell | 12/02/2021 - today | Пет-проект на Spring Boot, эмулирующий работу сайта - доски объявлений. Предназначен для эксперементов и развития навыков.(В разработке) Link to [GitHub Repo](https://github.com/fldelena/Buysell).|
+| Web-library | 10/02/2021 - today | Пет проект на Spring, RESTful приложение, описывающее работу библиотеки. Предназначен для эксперементов и развития навыков.(В разработке).Проект разделен на клиент-серверную часть. [Client](https://github.com/fldelena/web-library-client)-[Server](https://github.com/fldelena/web-library-server)
 
 ## C/C++ Projects
 | Название проекта | Период разработки |  Описание |
