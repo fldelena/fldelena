@@ -11,9 +11,9 @@
 
 
 ## Сourses and other platforms
-**[42 Ecole](https://disk.yandex.ru/i/DVI6ys-oQg0hOw)**
-**[JavaRush](https://javarush.com/users/2923684)**
-**[LeetCode](https://leetcode.com/zagagov/)**
+**[42 Ecole](https://disk.yandex.ru/i/DVI6ys-oQg0hOw)**  
+**[JavaRush](https://javarush.com/users/2923684)**  
+**[LeetCode](https://leetcode.com/zagagov/)**  
 **[Udemy](https://www.udemy.com/course/spring-framework/)**
 
 ## Skills
